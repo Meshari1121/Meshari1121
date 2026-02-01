@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="header.png" />
+ <img src="header.png" width="750" />
+
 </p>
+
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Meshari+Al-Tamimi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2200&speed=80&color=FFFFFF&center=true&vCenter=true&width=700&lines=Meshari+Al-Tamimi" />
 </p>
+
 
 ---
 
